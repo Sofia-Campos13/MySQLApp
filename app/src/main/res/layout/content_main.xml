@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:fontFamily="serif-monospace"
-        android:text="CRUD - MYSQL\n Cosme Jose"
+        android:text="CRUD - MYSQL\n Sofía Campos"
         android:textAlignment="center"
         android:textColor="#E42112"
         android:textSize="26dp"
